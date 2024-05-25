@@ -21,8 +21,8 @@ const Profile = () => {
 
   const [modelDetails,setModelDetails] = useState(
     {
-      ModelName:"Vijay",
-      ModelUserName:"@Vijay98",
+      ModelName:"Kshitiz",
+      ModelUserName:"@Kshitiz98",
       ModelCountryName:"India",
       ModelJobName:"Web Developer in Google"
     }
